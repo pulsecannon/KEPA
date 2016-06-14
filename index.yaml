@@ -1,0 +1,7 @@
+indexes:
+
+- kind: ExoPlanet
+  ancestor: no
+  properties:
+  - name: name
+  - name: radius

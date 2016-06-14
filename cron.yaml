@@ -1,0 +1,5 @@
+cron:
+- description: Sync exp-planets with koi.
+  schedule: every day 01:00
+  url: /sync-data/
+  timezone: America/Los_Angeles
